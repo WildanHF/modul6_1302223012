@@ -1,0 +1,5 @@
+D:\MOD6\MOD6\obj\Debug\net8.0\MOD6.GeneratedMSBuildEditorConfig.editorconfig
+D:\MOD6\MOD6\obj\Debug\net8.0\MOD6.AssemblyInfoInputs.cache
+D:\MOD6\MOD6\obj\Debug\net8.0\MOD6.AssemblyInfo.cs
+D:\MOD6\MOD6\obj\Debug\net8.0\MOD6.csproj.CoreCompileInputs.cache
+D:\MOD6\MOD6\obj\Debug\net8.0\MOD6.sourcelink.json
